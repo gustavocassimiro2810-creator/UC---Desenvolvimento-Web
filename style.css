@@ -1,0 +1,25 @@
+/* style.css */
+
+#titulo-principal {
+    color: darkblue;
+    text-align: center;
+    font-size: 32px;
+}
+
+.paragrafo1 {
+    color: red;
+    font-size: 18px;
+    background-color: lightyellow;
+}
+
+.paragrafo2 {
+    color: green;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.paragrafo3 {
+    color: purple;
+    font-size: 22px;
+    text-decoration: underline;
+}
